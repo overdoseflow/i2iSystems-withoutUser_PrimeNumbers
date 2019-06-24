@@ -7,7 +7,7 @@ public class notUser {
 	public static void main(String arg[])	
 	{
 	int i,count;
-    int last = 20;
+        int last = 20;
 	
 	for(int j=2;j<=last;j++)
 	{
